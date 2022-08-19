@@ -1,4 +1,4 @@
-# OIBGRIP-Web Development and Dsigning
+# OIBGRIP-Web Development and Designing
 Tech Stack : HTML, CSS, JavaScript.
 
 Code Editor : VS Code
