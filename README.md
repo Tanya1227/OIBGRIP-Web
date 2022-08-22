@@ -1,7 +1,7 @@
 # OIBGRIP-Web Development and Designing
-Tech Stack : HTML, CSS, JavaScript.
+# Tech Stack : HTML, CSS, JavaScript.
 
-Code Editor : VS Code
+# Code Editor : VS Code
 
 Here is the Level-1 Task Submission during my one month Web-Dev Internship at Oasis Infobytes.
 
